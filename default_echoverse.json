@@ -1,0 +1,16 @@
+{
+  "preset": {
+    "name": "EchoVerse Default",
+    "slots": [
+      {
+        "slotname": "Default",
+        "data": {
+          "live.dial_delay": 550,
+          "live.dial_feedback": 0.45,
+          "live.dial_wow": 30,
+          "live.dial_reverb": 0.6
+        }
+      }
+    ]
+  }
+}
