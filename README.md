@@ -3,8 +3,8 @@ _Analog soul. Digital space._
 
 **EchoVerse** is a retro-futuristic delay & reverb plugin for Ableton Live, inspired by the legendary Roland Space Echo. Recreated as a Max for Live device, EchoVerse fuses the lo-fi charm of tape echo with modern stereo processing and time-warping capabilities.
 
-![EchoVerse Logo](Images/echoverse_logo.png)
-![Plugin UI](Images/echoverse_ui.png)
+![EchoVerse Logo](echoverse_logo.png)
+![Plugin UI](echoverse_ui.png)
 
 ---
 
